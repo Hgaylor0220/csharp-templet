@@ -1,0 +1,11 @@
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.csprojAssemblyReference.cache
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.csproj.CoreCompileInputs.cache
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.AssemblyInfoInputs.cache
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.AssemblyInfo.cs
+/Users/haileygaylor/Desktop/Bakery IP/bin/Debug/netcoreapp2.2/project.deps.json
+/Users/haileygaylor/Desktop/Bakery IP/bin/Debug/netcoreapp2.2/project.runtimeconfig.json
+/Users/haileygaylor/Desktop/Bakery IP/bin/Debug/netcoreapp2.2/project.runtimeconfig.dev.json
+/Users/haileygaylor/Desktop/Bakery IP/bin/Debug/netcoreapp2.2/project.dll
+/Users/haileygaylor/Desktop/Bakery IP/bin/Debug/netcoreapp2.2/project.pdb
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.dll
+/Users/haileygaylor/Desktop/Bakery IP/obj/Debug/netcoreapp2.2/project.pdb
